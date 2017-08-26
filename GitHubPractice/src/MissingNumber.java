@@ -28,8 +28,9 @@ public class MissingNumber {
 		scan.close();
 	}
 
-	private int findMissing(int[] array, int count) {
+	int findMissing(int[] array, int count) {
 		// TODO Auto-generated method stub
+		
 		int sum=0;
 		int expectdSum=0;
 		for(int i:array){
