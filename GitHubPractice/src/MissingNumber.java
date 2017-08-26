@@ -22,6 +22,8 @@ public class MissingNumber {
 		int missingNumber=missing.findMissing(array,count);
 		System.out.println("Number missing from the given list of numbers :"+missingNumber);
 		
+		
+		
 		//close scanner
 		scan.close();
 	}
