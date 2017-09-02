@@ -1,8 +1,6 @@
 
 public class Branch2Class {
-<<<<<<< HEAD
 
-=======
 	
 	public static void main(String args[]){
 		System.out.println("f");	
@@ -10,6 +8,5 @@ public class Branch2Class {
 	
 	
 	}
-	
->>>>>>> refs/heads/Branch2
+
 }
