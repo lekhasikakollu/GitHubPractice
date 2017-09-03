@@ -9,6 +9,9 @@ public class Branch2Class {
 	
 	System.out.println(" ");
 	
+	
+	
+	
 	}
 	
 >>>>>>> refs/heads/Branch2
